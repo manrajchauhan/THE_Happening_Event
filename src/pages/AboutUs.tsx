@@ -23,7 +23,7 @@ const App = () => {
       <section className="full-length ">
         <div className="full-length-photo">
           <img
-            src="/src/pages/Images/EV.webp"
+            src="/pages/Images/EV.webp"
             alt="Full Length"
           />
           <div className="Happening-name">
@@ -45,7 +45,7 @@ const App = () => {
         </div>
         <div className="photo-row">
           <div className="photo-box">
-            <img src="/src/pages/Images/photo1.jpg" alt="Photo 1" />
+            <img src="/pages/Images/photo1.jpg" alt="Photo 1" />
           </div>
           <div className="photo-box">
             <img src="/src/pages/Images/photo2.jpg" alt="Photo 2" />
@@ -64,7 +64,7 @@ const App = () => {
         </div>
         <div className="photo-row">
           <div className="photo-box">
-            <img src="/src/pages/Images/photo5.jpeg" alt="Photo 1" />
+            <img src="/pages/Images/photo5.jpeg" alt="Photo 1" />
             <h1>Team Building</h1>
           </div>
           <div className="photo-box">
